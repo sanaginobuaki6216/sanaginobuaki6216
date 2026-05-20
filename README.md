@@ -12,7 +12,7 @@ With 10+ years of engineering experience, I focus on architecture, performance, 
 
 ### Core Technologies
 
-[![Tech Stack Icons](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,ts,python,java,postgres,mysql,redis,elasticsearch,docker,kubernetes,aws,terraform,nginx,linux,githubactions&perline=9)](https://skillicons.dev)
+[![Tech Stack Icons](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,ts,python,java,postgres,mysql,redis,elasticsearch,docker,kubernetes,aws,terraform,nginx,linux,go,ruby,rails,grafana,prometheus,vue,php,laravel,githubactions&perline=9)](https://skillicons.dev)
 
 ### Backend and AI Focus
 
