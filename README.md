@@ -39,6 +39,7 @@ With 10+ years of engineering experience, I focus on architecture, performance, 
 
 ### Core Backend
 
+- PHP (Laravel, CodeIgniter)
 - Node.js (Express, NestJS)
 - Python (FastAPI, Django, Flask)
 - Java (Spring Boot)
