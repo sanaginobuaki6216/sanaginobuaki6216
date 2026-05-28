@@ -105,6 +105,6 @@ I build AI-integrated applications with a backend-first approach:
 
 ## Open To
 
-- Senior backend and platform engineering roles
+- Senior Full-stack and platform engineering roles
 - AI/backend integration projects
 - Architecture consulting and technical leadership engagements
