@@ -1,6 +1,6 @@
 # Hi, I'm Sanagi Nobuaki
 
-### Senior Full-stack Engineer | AI Systems Builder | M.S. in Computer Science
+### Senior Full-stack Engineer | AI Systems Builder | B.S. in Computer Science
 
 I design and ship reliable backend platforms and AI-enabled products that hold up in production.
 
