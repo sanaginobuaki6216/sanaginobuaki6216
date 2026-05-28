@@ -1,4 +1,4 @@
-# Hi, I'm Takizawa Hisao
+# Hi, I'm Sanagi Nobuaki
 
 ### Senior Backend Engineer | AI Systems Builder | M.S. in Computer Science
 
