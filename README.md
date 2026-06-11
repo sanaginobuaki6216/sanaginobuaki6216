@@ -1,10 +1,10 @@
-# Hi, I'm Sanagi Nobuaki
+# Hi, I'm Henrique Kenji Umazaki
 
 ### Senior Full-stack Engineer | AI Systems Builder | B.S. in Computer Engineering
 
 I design and ship reliable backend platforms and AI-enabled products that hold up in production.
 
-With 10+ years of engineering experience, I focus on architecture, performance, and delivery quality across the full lifecycle: design, implementation, deployment, and operations.
+With 12 years of engineering experience, I focus on architecture, performance, and delivery quality across the full lifecycle: design, implementation, deployment, and operations.
 
 ---
 
